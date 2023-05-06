@@ -6,7 +6,7 @@ A API permite criar e gerenciar álbuns musicais, bem como adicionar e gerenciar
 
 ## <strong>ER Diagram: </strong>
 
-![DIAGRAMA_BAND_KAMP.pdf](https://github.com/AmandaIsMe-alt/Biblioteka/files/11413212/DIAGRAMA_BAND_KAMP.pdf)
+[DIAGRAMA_BAND_KAMP.pdf](https://github.com/AmandaIsMe-alt/Biblioteka/files/11413212/DIAGRAMA_BAND_KAMP.pdf)
 
 Principais tecnologias utilizadas:
 
